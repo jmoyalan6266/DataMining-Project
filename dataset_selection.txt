@@ -1,0 +1,11 @@
+1. The dataset we chose is all the shots taken during the 2014-2015 NBA season. Each record has multiple columns describing information related to the shot, included whether it was successful or not.
+
+2. 128,069
+
+3. 21 features, for example the matchup, home or away, win or loss, number of dribbles, player name.
+
+4. We can predict the likelihood of a player making a shot.
+
+5. Yes, the labels are whether the shot went in or not. 
+
+6. https://www.kaggle.com/dansbecker/nba-shot-logs
